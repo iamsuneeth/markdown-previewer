@@ -4,7 +4,6 @@ import './vendors/bootstrap-grid.css';
 import './index.css';
 import App from './App';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
-import registerServiceWorker from './registerServiceWorker';
 
 ReactDOM.render(
 <MuiThemeProvider>
