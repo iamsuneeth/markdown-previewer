@@ -10,4 +10,3 @@ ReactDOM.render(
 <App />
 </ MuiThemeProvider>
 , document.getElementById('root'));
-registerServiceWorker();
